@@ -1,52 +1,19 @@
-## Selected work
+# 💫 About Me:
+🧠 Computer Science student at FSM, exploring the world of code.<br>⚙️ Currently diving deep into Backend Development — building the logic behind the scenes.<br>🎭 Formerly a 3D Designer, still carry that creative eye into everything I build.<br>🖌️ Skilled in Adobe Creative Suite, now expanding into After Effects & motion design.<br>✨ Where design meets logic — I build things that work AND look good.<br>📚 Continuously learning, always leveling up, one commit at a time.
 
-<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=mazougy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190027333%3Fu%3D8930cc66488762f7e96daa510a622ad2f7220090%26v%3D4" alt="mazougy hero visual" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ada.m.arzougui) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ada_m_arzougui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-marzougui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marzouguiadam82@gmail.com) 
 
-<h1>adam marzougui</h1>
-<p><b>Freelance developer or consultant</b></p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mazougy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mazougy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mazougy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
 
-## The idea behind the work
+---
+[![](https://komarev.com/ghpvc/?username=Mazougy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> Building useful things and learning in public.
-
-- 📍 Based in **monastir,Tunisia**
-- 👥 **1** followers · **4** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Mazougy/creapub-website">creapub-website</a></b></td><td>A website for Creapub socity<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Mazougy/Mazougy">Mazougy</a></b></td><td>Hello World , this is my profile<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Mazougy/Players-System">Players-System</a></b></td><td>This is players system in Mta:sa<br/><sub>Lua · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Mazougy/Project-Reseau">Project-Reseau</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-</table>
-
-## Details worth noticing
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=mazougy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190027333%3Fu%3D8930cc66488762f7e96daa510a622ad2f7220090%26v%3D4" alt="mazougy highlights visual" />
-</p>
-
-<p><b>adam marzougui</b> is shipping 4 public projects with 0 stars of proof.</p>
-
-## Creative toolkit
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) `Lua` ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=mazougy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190027333%3Fu%3D8930cc66488762f7e96daa510a622ad2f7220090%26v%3D4" alt="mazougy social visual" />
-</p>
-
-<a href="https://github.com/mazougy">GitHub</a>
-
-<p align="center"><sub>adam marzougui · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
