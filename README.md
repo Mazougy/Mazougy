@@ -1,5 +1,10 @@
 # 💫 About Me:
-🧠 Computer Science student at FSM, exploring the world of code.<br>⚙️ Currently diving deep into Backend Development — building the logic behind the scenes.<br>🎭 Formerly a 3D Designer, still carry that creative eye into everything I build.<br>🖌️ Skilled in Adobe Creative Suite, now expanding into After Effects & motion design.<br>✨ Where design meets logic — I build things that work AND look good.<br>📚 Continuously learning, always leveling up, one commit at a time.
+🧠 Studying Computer Science at FSM, discovering the programming universe.<br>
+⚙️ Focusing on Backend Development right now — developing the brains of the software.<br>
+🎭 Background in 3D Designing, but that creative streak is alive and kicking.<br>
+🖌️ Expert with Adobe Creative Suite, moving onto After Effects and motion graphics.<br>
+✨ Bringing together creativity and logic — I create solutions that are both functional and aesthetically pleasing.<br>
+📚 Constantly improving, constantly evolving, one commit at a time.
 
 
 ## 🌐 Socials:
