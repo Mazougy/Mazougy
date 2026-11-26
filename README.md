@@ -2,7 +2,7 @@
 🧠 I am a Computer Science student at the Faculty of Sciences of Monastir (FSM). My specialization is Software Engineering.<br>
 ⚙️ I have a keen interest in Backend Development. At the moment I am studying Python and PostgreSQL. <br>
 💻 I study at university and in private projects I develop applications using Java, Spring Boot and RESTful API as well as Web design. <br>
-📚    I am eager to learn something new, develop applications and understand how stuff works underneath.
+📚 I am eager to learn something new, develop applications and understand how stuff works underneath.
 
 
 ## 🌐 Socials:
